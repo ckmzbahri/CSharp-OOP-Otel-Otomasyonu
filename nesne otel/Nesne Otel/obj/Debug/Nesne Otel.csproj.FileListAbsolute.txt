@@ -1,0 +1,181 @@
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\bin\Debug\Nesne Otel.exe
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\bin\Debug\Nesne Otel.pdb
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.exe
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.pdb
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne Otel.exe
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne Otel.pdb
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\bin\Debug\Nesne Otel.exe
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\bin\Debug\Nesne Otel.pdb
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+C:\Users\NITRO5\Videos\Desktop\nesne otel\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+D:\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.exe
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.pdb
+D:\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe
+D:\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.pdb
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+D:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+E:\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.exe
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.pdb
+E:\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe
+E:\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.pdb
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+E:\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.exe
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.pdb
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.pdb
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+C:\Users\DELL\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.exe
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.pdb
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.pdb
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\mscorlib.dll
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\normidna.nlp
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\normnfc.nlp
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\normnfd.nlp
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\normnfkc.nlp
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\normnfkd.nlp
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.eskimusteri.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.konaklayan.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.exe
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.pdb
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.pdb
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.eskimusteri.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.konaklayan.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.rapor.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\RdlCompile.cache
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\RdlCompile.compiled
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.mrapor.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.murapor.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odarapor.resources
+C:\Users\Casper\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.eskirapor.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.eskirapor.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.mrapor.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.murapor.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odarapor.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.rapor.resources
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\RdlCompile.cache
+C:\Users\BAHRİ\Desktop\nesne otel en yeni\Nesne Otel\obj\Debug\RdlCompile.compiled
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.exe
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.pdb
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.pdb
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.eskimusteri.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.eskirapor.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.konaklayan.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanici.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.mrapor.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.murapor.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odaduzen.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odalar.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.odarapor.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelbilgi.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.personelkayit.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne_Otel.rapor.resources
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\RdlCompile.cache
+D:\BAHRİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\RdlCompile.compiled
+C:\bahrİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+C:\bahrİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.exe
+C:\bahrİ\ikinci sınıf\nesne otel en yeni\Nesne Otel\obj\Debug\Nesne Otel.pdb

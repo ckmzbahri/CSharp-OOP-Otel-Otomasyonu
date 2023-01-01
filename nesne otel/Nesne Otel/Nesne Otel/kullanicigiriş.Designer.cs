@@ -1,0 +1,141 @@
+﻿namespace Nesne_Otel
+{
+    partial class kullanicigiriş
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.bgiris = new System.Windows.Forms.Button();
+            this.kullanicisifre = new System.Windows.Forms.TextBox();
+            this.kullaniciadi = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.SuspendLayout();
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label3.Location = new System.Drawing.Point(121, 139);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(52, 20);
+            this.label3.TabIndex = 19;
+            this.label3.Text = "Şifre:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.Location = new System.Drawing.Point(62, 113);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(111, 20);
+            this.label2.TabIndex = 18;
+            this.label2.Text = "Kullanıcı Adı:";
+            // 
+            // bgiris
+            // 
+            this.bgiris.BackColor = System.Drawing.Color.LightGray;
+            this.bgiris.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.bgiris.Location = new System.Drawing.Point(179, 162);
+            this.bgiris.Name = "bgiris";
+            this.bgiris.Size = new System.Drawing.Size(116, 32);
+            this.bgiris.TabIndex = 17;
+            this.bgiris.Text = "GİRİŞ YAP";
+            this.bgiris.UseVisualStyleBackColor = false;
+            this.bgiris.Click += new System.EventHandler(this.bgiris_Click);
+            // 
+            // kullanicisifre
+            // 
+            this.kullanicisifre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.kullanicisifre.Location = new System.Drawing.Point(179, 136);
+            this.kullanicisifre.Name = "kullanicisifre";
+            this.kullanicisifre.PasswordChar = '*';
+            this.kullanicisifre.Size = new System.Drawing.Size(116, 26);
+            this.kullanicisifre.TabIndex = 16;
+            // 
+            // kullaniciadi
+            // 
+            this.kullaniciadi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.kullaniciadi.Location = new System.Drawing.Point(179, 110);
+            this.kullaniciadi.Name = "kullaniciadi";
+            this.kullaniciadi.Size = new System.Drawing.Size(116, 26);
+            this.kullaniciadi.TabIndex = 15;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("MV Boli", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(25, 53);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(310, 34);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "       HOŞGELDİNİZ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 200;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // kullanicigiriş
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Nesne_Otel.Properties.Resources.arkaplan;
+            this.ClientSize = new System.Drawing.Size(413, 251);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.bgiris);
+            this.Controls.Add(this.kullanicisifre);
+            this.Controls.Add(this.kullaniciadi);
+            this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "kullanicigiriş";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "kullanicigiriş";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button bgiris;
+        private System.Windows.Forms.TextBox kullanicisifre;
+        private System.Windows.Forms.TextBox kullaniciadi;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Timer timer1;
+    }
+}

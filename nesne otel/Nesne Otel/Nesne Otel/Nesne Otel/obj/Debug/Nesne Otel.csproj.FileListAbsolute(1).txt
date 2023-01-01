@@ -1,0 +1,13 @@
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\bin\Debug\Nesne Otel.exe.config
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.csprojResolveAssemblyReference.cache
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.Form1.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.Properties.Resources.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.csproj.GenerateResource.Cache
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\bin\Debug\Nesne Otel.exe
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\bin\Debug\Nesne Otel.pdb
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.exe
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne Otel.pdb
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.anasayfa.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.kullanicigiriş.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.müsterikayit.resources
+C:\Users\BAHRİ\Desktop\nesne otel\Nesne Otel\Nesne Otel\obj\Debug\Nesne_Otel.musteribilgi.resources
